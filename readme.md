@@ -86,6 +86,3 @@ CMD ["python3", "-m", "http.server", "80"]
 Congratulations! You've completed the basic Docker tutorial. Explore more advanced features and best practices in the [official Docker documentation](https://docs.docker.com/).
 
 Feel free to contribute to this tutorial by opening issues or pull requests. Happy Dockerizing!
-```
-
-Copy and paste this content into your `README.md` file, and it should provide a nicely formatted tutorial on GitHub.
